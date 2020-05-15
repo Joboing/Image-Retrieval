@@ -1,2 +1,2 @@
 # Image-Retrieval
-this problem include some image retrieval paper and code
+this program include some image retrieval paper and code
